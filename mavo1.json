@@ -7,7 +7,7 @@
 	"nav-label-04": "Energy Plan",
 	"nav-label-05": "Help",
 	"account-summary": "https://cdn.rawgit.com/a138326/ucp-04-high/fd979475fe7b9a5332fee232cf64ee1fb92faf58/images/Summary.png",
-	"bill-card": "https://cdn.rawgit.com/a138326/ucp-04-high/7eca2d3f7eb4c0d80cacf86086ea287cbd935344/images/Please%20Pay2.png",
+	"bill-card": "https://cdn.rawgit.com/a138326/ucp-04-high/2a0ff78e3f9815a3d092c1f761078eef79ad05a2/images/Please%20Pay.png",
 	"details-hd": "How your bill adds up",
 	"details-sub": "The details of your charges, credits and discounts",
 	"details-tab-label-01": "Charges",
@@ -28,8 +28,8 @@
 	"plan-sub": " ",
 	"plan-tab-label-01": "Plan",
 	"plan-tab-label-02": "Rates",
-	"plan-tab-content-01": "https://cdn.rawgit.com/a138326/ucp-04-high/0de97d1ec78517b08bc1252689051ec6e1ea0a2d/images/s01%20Plans.png",
-	"plan-tab-content-02": "https://cdn.rawgit.com/a138326/ucp-04-high/032b59f6b0fdb25a38ba05feeef3a52223140e08/images/Rates.png",
+	"plan-tab-content-01": "https://cdn.rawgit.com/a138326/ucp-04-high/7a7b8108c231fb9dd74bfcf1cf79f85a5b561ec9/images/s01%20Plans.png",
+	"plan-tab-content-02": "https://cdn.rawgit.com/a138326/ucp-04-high/35cf7bfe2bb934476006a16986a323ef247cb50c/images/rates.png",
 	"help-tab-content-01": "//d1qmdf3vop2l07.cloudfront.net/undisturbed-rug.cloudvent.net/compressed/4ddd575623fae02680c0e1d4312389dd.png",
 	"help-tab-content-02": "//d1qmdf3vop2l07.cloudfront.net/undisturbed-rug.cloudvent.net/compressed/865ae10b28ed2a2c6756da3ba12a43f6.png"
 }
